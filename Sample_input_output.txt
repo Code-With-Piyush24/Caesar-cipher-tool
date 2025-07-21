@@ -1,0 +1,37 @@
+Welcome to the Caesar Cipher Program!
+
+Type 'encrypt' to encode or 'decrypt' to decode: encrypt
+Enter your message: Hello, World!
+Enter the shift number (0 to 25): 3
+
+Here is your encrypted message: Khoor, Zruog!
+
+--------------------------------------
+
+Welcome to the Caesar Cipher Program!
+
+Type 'encrypt' to encode or 'decrypt' to decode: decrypt
+Enter your message: Khoor, Zruog!
+Enter the shift number (0 to 25): 3
+
+Here is your decrypted message: Hello, World!
+
+--------------------------------------
+
+Welcome to the Caesar Cipher Program!
+
+Type 'encrypt' to encode or 'decrypt' to decode: encrypt
+Enter your message: Python3.8 is awesome!
+Enter the shift number (0 to 25): 5
+
+Here is your encrypted message: Udymts3.8 nx fbtzrj!
+
+--------------------------------------
+
+Welcome to the Caesar Cipher Program!
+
+Type 'encrypt' to encode or 'decrypt' to decode: decrypt
+Enter your message: Udymts3.8 nx fbtzrj!
+Enter the shift number (0 to 25): 5
+
+Here is your decrypted message: Python3.8 is awesome!
