@@ -1,0 +1,16 @@
+Caesar Cipher Encryption/Decryption
+This Python script implements the classic Caesar Cipher for encrypting and decrypting text messages. It shifts letters by a user-defined amount while preserving case and non-alphabetic characters.
+
+Features:
+
+Supports both encryption and decryption modes
+
+Handles uppercase and lowercase letters correctly
+
+Validates user input for mode and shift amount
+
+Keeps non-letter characters unchanged
+
+Usage:
+Run the program, choose to encrypt or decrypt, input your message, and specify the shift value (0-25). The program outputs the transformed message accordingly.
+
